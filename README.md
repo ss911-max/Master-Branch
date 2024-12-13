@@ -1,3 +1,3 @@
 # Master-Branch
-# it is aediting file
+# it is editing file
 It is a markdown file
